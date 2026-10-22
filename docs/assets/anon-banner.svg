@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title description">
+  <title id="title">ANON</title>
+  <desc id="description">Partage l’instant. Protège les visages. Photos, vidéos et nettoyage des métadonnées.</desc>
+  <rect width="1200" height="340" rx="24" fill="#10120f"/>
+  <g transform="translate(58 68) scale(1.8)">
+    <path d="M26 76 44 30h20l18 46H66l-3-10H45l-3 10Z" fill="#d9fc76"/>
+    <path d="M49 54h10l-5-16Z" fill="#10120f"/>
+    <path d="M20 45h68v10H20Z" fill="#10120f"/>
+  </g>
+  <text x="270" y="137" fill="#d9fc76" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="80" letter-spacing="10">ANON</text>
+  <text x="274" y="194" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="30">Partage l’instant. Protège les visages.</text>
+  <text x="274" y="242" fill="#b5bdb0" font-family="Arial,Helvetica,sans-serif" font-size="19">PHOTO · VIDÉO · TRAITEMENT LOCAL · MÉTADONNÉES NETTOYÉES</text>
+  <path d="M1080 62h46v46M1126 232v46h-46" stroke="#d9fc76" stroke-width="3" fill="none" opacity="0.5"/>
+</svg>
